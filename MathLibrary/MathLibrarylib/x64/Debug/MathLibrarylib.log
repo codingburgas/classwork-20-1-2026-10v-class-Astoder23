@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  MathLibrarylib.cpp
+C:\Users\HP\Desktop\project2\MathLibrary\MathLibrarylib\MathLibrarylib.cpp(4,10): error C1083: Не удается открыть файл включение: MathLibrary.h: No such file or directory,
+  (компиляция исходного файла "/MathLibrarylib.cpp")
+  
